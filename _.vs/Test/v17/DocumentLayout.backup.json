@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|c:\\temp\\test\\auditlogsearchapi\\sql\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|solutionrelative:auditlogsearchapi\\sql\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|c:\\temp\\test\\auditlogsearchapi\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|solutionrelative:auditlogsearchapi\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|c:\\temp\\test\\auditlogsearchapi\\services\\searchqueryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|solutionrelative:auditlogsearchapi\\services\\searchqueryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|c:\\temp\\test\\auditlogsearchapi\\sql\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E67F4081-2897-A4D9-3A8F-13763439E7AC}|AuditLogSearchApi\\AuditLogSearchApi.csproj|solutionrelative:auditlogsearchapi\\sql\\01_createschema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_CreateSchema.sql ",
+              "DocumentMoniker": "C:\\Temp\\Test\\AuditLogSearchApi\\SQL\\01_CreateSchema.sql",
+              "RelativeDocumentMoniker": "AuditLogSearchApi\\SQL\\01_CreateSchema.sql",
+              "ToolTip": "C:\\Temp\\Test\\AuditLogSearchApi\\SQL\\01_CreateSchema.sql",
+              "RelativeToolTip": "AuditLogSearchApi\\SQL\\01_CreateSchema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T14:55:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditLogRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\AuditLogSearchApi\\Repositories\\AuditLogRepository.cs",
+              "RelativeDocumentMoniker": "AuditLogSearchApi\\Repositories\\AuditLogRepository.cs",
+              "ToolTip": "C:\\Temp\\Test\\AuditLogSearchApi\\Repositories\\AuditLogRepository.cs",
+              "RelativeToolTip": "AuditLogSearchApi\\Repositories\\AuditLogRepository.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAewIMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:44:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchQueryParser.cs",
+              "DocumentMoniker": "C:\\Temp\\Test\\AuditLogSearchApi\\Services\\SearchQueryParser.cs",
+              "RelativeDocumentMoniker": "AuditLogSearchApi\\Services\\SearchQueryParser.cs",
+              "ToolTip": "C:\\Temp\\Test\\AuditLogSearchApi\\Services\\SearchQueryParser.cs",
+              "RelativeToolTip": "AuditLogSearchApi\\Services\\SearchQueryParser.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:43:14.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
